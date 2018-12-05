@@ -1,0 +1,5 @@
+[user]
+	name = Nathan McCrina
+	email = nathan.mccrina@outlook.com
+[core]
+	editor = /usr/bin/vim
