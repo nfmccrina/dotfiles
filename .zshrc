@@ -15,3 +15,8 @@ compinit
 alias ls='ls --color=auto'
 
 PS1='%~> '
+
+PATH=$PATH:/home/nfm/bin/dotnet
+PATH=$PATH:/home/nfm/bin/Discord
+
+DOTNET_ROOT=$HOME/bin/dotnet
